@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ai_output/Demo.md",
+                "file": "vault/sources/rules/controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "27f81393ebc9b4d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37aeb2857da27ca2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "controller"
             }
           }
         ]
@@ -115,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/sources/rules/controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến"
+              "title": "Backlinks"
             }
           },
           {
@@ -187,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +188,31 @@
   },
   "active": "01256e4d6e48bf62",
   "lastOpenFiles": [
+    "vault/sources/rules/00-project.md",
+    "vault/sources/AGENTS.md",
+    "vault/sources/rules/validation.md",
+    "vault/sources/rules/utils.md",
+    "vault/sources/rules/thymeleaf.md",
+    "vault/sources/rules/service.md",
+    "vault/sources/rules/repository.md",
+    "vault/sources/rules/exception.md",
+    "vault/sources/rules/entity.md",
+    "vault/sources/rules/dto.md",
+    "vault/sources/rules/controller.md",
+    "vault/sources/rules/00-project.mdc",
+    "vault/sources/rules/validation.mdc",
+    "vault/sources/rules/utils.mdc",
+    "vault/sources/rules/exception.mdc",
+    "vault/sources/rules/entity.mdc",
+    "vault/sources/rules/repository.mdc",
+    "vault/sources/rules/dto.mdc",
+    "vault/sources/rules/controller.mdc",
+    "vault/sources/rules/thymeleaf.mdc",
+    "vault/sources/rules/service.mdc",
+    "vault/sources/HELP.md",
     "vault/ai_output/Demo.md",
     "Chưa đặt tên.canvas",
     "Chưa đặt tên.md",
-    "vault/ai_output",
-    "vault/sources",
-    "vault",
     "tạo một liên kết.md",
     "Chào mừng.md"
   ]
