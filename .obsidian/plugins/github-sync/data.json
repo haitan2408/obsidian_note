@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/haitan2408/obsidian_note.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
