@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/sources/rules/repository.md",
+                "file": "submodule/sub_module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "repository"
+              "title": "sub_module"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/sources/rules/repository.md",
+                "file": "submodule/sub_module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,11 +183,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c78d54ccd102e67",
+  "active": "01256e4d6e48bf62",
   "lastOpenFiles": [
+    "vault/sources/rules/repository.md",
+    "submodule/sub_module.md",
     "submodule/README",
     "submodule",
     "vault/sources/AGENTS.md",
@@ -199,7 +202,6 @@
     "vault/sources/rules/utils.md",
     "vault/sources/rules/thymeleaf.md",
     "vault/sources/rules/service.md",
-    "vault/sources/rules/repository.md",
     "vault/sources/rules/exception.md",
     "vault/sources/rules/dto.md",
     "vault/sources/rules/00-project.mdc",
@@ -210,7 +212,6 @@
     "vault/sources/rules/repository.mdc",
     "vault/sources/rules/dto.mdc",
     "vault/sources/rules/controller.mdc",
-    "vault/sources/rules/thymeleaf.mdc",
     "vault/sources/HELP.md",
     "vault/ai_output/Demo.md",
     "Chưa đặt tên.canvas",
