@@ -1,0 +1,2 @@
+- Thư mục sources chỉ được đọc, không được thay đổi
+- ai_output chứa những file mà AI có thể sửa đổi
