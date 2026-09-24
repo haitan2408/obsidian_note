@@ -11,14 +11,14 @@ Package gốc: `com.haitt.tinh_nhanh`
 
 | Package / thư mục  | Trách nhiệm                                           |
 | ------------------ | ----------------------------------------------------- |
-| `[[entity]]`       | Chỉ chứa entity JPA                                   |
-| `[[repository]]`   | Spring Data JPA repository                            |
-| `[[service]]`      | Logic nghiệp vụ                                       |
-| `[[dto]]`          | Form / request / response, không dùng entity làm form |
-| `[[exception]]`    | Exception nghiệp vụ + `@ControllerAdvice`             |
-| `[[controller]]`   | HTTP + tên view Thymeleaf                             |
-| `[[validation]]`   | Validator / constraint tùy chỉnh                      |
-| `[[utils]]`        | Helper không trạng thái                               |
+| [[entity]]         | Chỉ chứa entity JPA                                   |
+| [[repository]]     | Spring Data JPA repository                            |
+| [[service]]        | Logic nghiệp vụ                                       |
+| [[dto]]            | Form / request / response, không dùng entity làm form |
+| [[exception]]      | Exception nghiệp vụ + `@ControllerAdvice`             |
+| [[controller]]     | HTTP + tên view Thymeleaf                             |
+| [[validation]]     | Validator / constraint tùy chỉnh                      |
+| [[utils]]          | Helper không trạng thái                               |
 | `templates/layout` | Layout Thymeleaf (`user`, `admin`)                    |
 | `templates/admin`  | Giao diện admin                                       |
 | `templates/user`   | Giao diện người dùng                                  |
